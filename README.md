@@ -5,3 +5,4 @@ This site, hosted on [2017.galacticpuzzlehunt.com](https://2017.galacticpuzzlehu
 ## TODO
 
 * Fix last solve time stats to be accurate
+* Rerank last 65 teams
